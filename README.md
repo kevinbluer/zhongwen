@@ -1,25 +1,44 @@
 # 中文
 
-### Jobs
-
-- biān chéng 编程 | programming
-- shè yǐng shī 摄影师 | photographer
+TODO - start listing out templates structures (e.g. from the Celebrity Mandarin slides)
+TODO - copy up from Chinese Grammer book
 
 ### Day to Day
 
-- cháng cháng | usually
+- ma 吗 | question particle (e.g. nǐ hǎo ma? | how are you?)
+- bù 不 | not
+- bíe 别 | don't
+- jīngcháng | usually
+- cháng cháng | usually (colloquial)
 - yī bān | generally
-- kě néng | maybe
-- kě shì 可 是
+- kě néng | maybe (approximately)
+- yě xǔ 也许 | maybe
+- kě shì 可 是 | but
+- suó yǐ 所 以 | so
 - kě ài | 可爱 | cute
+- zhè xiē 这些 | these
+- 或 huò or
+- 不客气 bú kè qì you're welcome
+- 对不起 duì bú qǐ sorry
+- 多少个？ duō shǎo gè? how many?
+- 多少？duō shǎo? how much?
+- hao good
+- 坏 huài bad
+- 小心！xiǎo xīn ! Be careful!
+- 下午好 xià wǔ hǎo good afternoon
+- 再见 zài jiàn goodbye
 
 - bù dōu 不 都 | not all
 - dōu 都 | all
 - dōu bú 都 不 | all not 
+- zhī dào 知道 | know (as in I "know" how to speak English)
+- rén shì 认识 | know (as in I "know" him)
 
 ### Places
 
 - shāngdiàn | shop
+- shūdiàn 书店 | bookshop
+- 浴室 yù shì restroom
 
 ### Directions
 
@@ -32,6 +51,12 @@
 
 ### Numbers
 
+一，二，三，四，五
+yī ，èr ，sān ，sì ，wǔ
+
+六，七，八，九，十
+liù ，qī ，bā ，jiǔ ，shí
+
 - shí - 10
 - bǎi - 100
 - qiān - 1,000
@@ -40,14 +65,19 @@
 ### Times of Day
 
 - zao shang <- shangwu <- zhongwu -> xiawu -> wan shang
-
+- morning
+- mid-morning
+- noon
+- afternoon
+- evening
 
 ### Nouns
 
+- shì qíng | things
+- dōng xī 东西 | stuff
 - zhào piàn | photo
-- shè yǐng | photography
-- fēi jī | airplane
 - miàn bāo | bread
+- fruit
 
 ### Verbs
 
@@ -56,6 +86,19 @@
 - xiū xi | rest
 - huì 会 | can
 - kě yǐ 可以 | can
+- zuò 做 | do
+- shuō 说 | speak or say
+- 学习 xué xí study
+- 了解 liáo jiě to understand
+
+### Adjectives
+
+- aì love
+- hǎo | good or nice
+- piao liang | 
+- ɡuì | expensive
+- máfɑn 麻 烦 | trouble or effort
+- fānɡbiàn | convenient
 
 ### Phrases
 
@@ -68,6 +111,13 @@
 - qìng zhù shèng dàn jié 庆祝圣诞节 | Celebrate Christmas
 - ɡōnɡ xǐ nǐ 恭 喜 你 | congratulations
 
+### Education & Learning
+
+- tóng xué 同学 | schoolmates
+- zhī dào | know
+- míng bái 明白 | understand
+- xué xí 学习 | study or learn
+
 ### Characters
 
 - wǒ 我
@@ -78,7 +128,89 @@
 - shàng 上
 - xià 下
 
+### Vehicles
+
+- Car 
+- Train
+- Bicycle
+- Taxi
+- Bus
+- Motorbike
+- fēi jī | airplane
+
+### Activities
+
+- yóu yǒnɡ (swimming)
+- baseball
+- muay thai or thai boxing
+- shè yǐng | photography
+
+### Food
+
+- Noodles
+- Rice
+- Soup
+- Vegetables
+- Meat
+- Beef
+- Chicken
+- Spice
+- Chili
+- Hamburger
+
+- 餐厅 cān tīng restaurant or canteen
+
+- rìběncài 日本菜 | Japanese Food
+
+### Family & Friends
+
+- qīn qi 亲戚 | relative
+- mother
+- father
+- mum
+- dad
+- husband
+- wife
+- son
+- daughter
+- boy
+- girl
+- younger brother
+- older brother
+- younger sister
+- older sister
+- uncle / aunt (note that the terms vary depending on the side of the family)
+- friends
+
+### Animals
+
+- Cat
+- Dog
+
+### Business
+
+- company
+- office
+- job
+
+### Jobs
+
+- biān chéng 编程 | programming
+- shè yǐng shī 摄影师 | photographer
+
 ### Phrases
+
+- My name is...
+- 我的名字是。 。 。
+- wǒ de míng zì shì 。 。 。
+
+- What is your name?
+- 你叫什么名字？
+- nǐ jiào shén me míng zi?
+
+- Do you speak English?
+- 你会讲英文吗？
+- nǐ huì jiǎng yīng wén ma?
 
 - Before coming to HK, I worked in the UK.
 - lái xiānggǎng yǐqián，wǒ zài yīngguó gōngzuò
@@ -105,6 +237,4 @@
 多部贵
 你准备好了？
 
-### Activities
 
-- yóu yǒnɡ (swimming)
