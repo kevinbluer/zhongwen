@@ -27,6 +27,8 @@ TODO - copy up from Chinese Grammer book
 - 小心！xiǎo xīn ! Be careful!
 - 下午好 xià wǔ hǎo good afternoon
 - 再见 zài jiàn goodbye
+- 一点点 yī diǎn diǎn a little bit
+- 同 tóng with
 
 - bù dōu 不 都 | not all
 - dōu 都 | all
@@ -78,6 +80,7 @@ liù ，qī ，bā ，jiǔ ，shí
 - zhào piàn | photo
 - miàn bāo | bread
 - fruit
+- 因特网 yīn tè wǎng Internet
 
 ### Verbs
 
@@ -88,8 +91,13 @@ liù ，qī ，bā ，jiǔ ，shí
 - kě yǐ 可以 | can
 - zuò 做 | do
 - shuō 说 | speak or say
+- 告诉 gào sù to tell
 - 学习 xué xí study
 - 了解 liáo jiě to understand
+- 去 qù to go
+- 来 lái to come
+- 离开 lí kāi to leave
+- 吃 chī to eat
 
 ### Adjectives
 
@@ -151,12 +159,15 @@ liù ，qī ，bā ，jiǔ ，shí
 - Rice
 - Soup
 - Vegetables
-- Meat
+- 肉 ròu meat
 - Beef
 - Chicken
 - Spice
 - Chili
 - Hamburger
+- 蛋 dàn egg
+- fàn meal or rice
+- 面条 miàntiáo noodles
 
 - 餐厅 cān tīng restaurant or canteen
 
@@ -164,6 +175,7 @@ liù ，qī ，bā ，jiǔ ，shí
 
 ### Family & Friends
 
+- 小孩 xiǎo hái child, kid
 - qīn qi 亲戚 | relative
 - mother
 - father
@@ -207,6 +219,11 @@ liù ，qī ，bā ，jiǔ ，shí
 - What is your name?
 - 你叫什么名字？
 - nǐ jiào shén me míng zi?
+
+- of, from
+- 在...的，从
+- zài ...de ，cóng
+
 
 - Do you speak English?
 - 你会讲英文吗？
