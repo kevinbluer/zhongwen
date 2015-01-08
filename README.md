@@ -29,6 +29,7 @@ TODO - copy up from Chinese Grammer book
 - 再见 zài jiàn goodbye
 - 一点点 yī diǎn diǎn a little bit
 - 同 tóng with
+- yǒu shí sometimes
 
 - bù dōu 不 都 | not all
 - dōu 都 | all
