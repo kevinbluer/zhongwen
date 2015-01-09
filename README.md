@@ -30,6 +30,8 @@ TODO - copy up from Chinese Grammer book
 - 一点点 yī diǎn diǎn a little bit
 - 同 tóng with
 - yǒu shí sometimes
+- 更多 gèng duō more
+- 较少的 jiào shǎo de less
 
 - bù dōu 不 都 | not all
 - dōu 都 | all
@@ -68,11 +70,14 @@ liù ，qī ，bā ，jiǔ ，shí
 ### Times of Day
 
 - zao shang <- shangwu <- zhongwu -> xiawu -> wan shang
-- morning
+- 上午 shàng wǔ morning
 - mid-morning
 - noon
 - afternoon
 - evening
+- 几点了? jǐ diǎn le ? What time is it?
+- 不久 bú jiǔ soon
+- 晚 wǎn late
 
 ### Nouns
 
@@ -99,6 +104,7 @@ liù ，qī ，bā ，jiǔ ，shí
 - 来 lái to come
 - 离开 lí kāi to leave
 - 吃 chī to eat
+- 问 wèn to ask (a question)
 
 ### Adjectives
 
@@ -108,13 +114,14 @@ liù ，qī ，bā ，jiǔ ，shí
 - ɡuì | expensive
 - máfɑn 麻 烦 | trouble or effort
 - fānɡbiàn | convenient
+- 小的 xiǎo de small
 
 ### Phrases
 
 - xiāng tóng 相同 (the same)
 - nà wèi (whom) 
 
-### Dates, Events, Celebrations
+### Events, Celebrations
 
 - guò shèng dàn jié 过圣诞节 | Celebrate Christmas 
 - qìng zhù shèng dàn jié 庆祝圣诞节 | Celebrate Christmas
@@ -211,6 +218,13 @@ liù ，qī ，bā ，jiǔ ，shí
 - biān chéng 编程 | programming
 - shè yǐng shī 摄影师 | photographer
 
+### Government
+
+- government zhèng fǔ
+- wangpingyuan internet commentators
+- wumao dang 50-cent party
+- 宣传部 propaganda department
+
 ### Phrases
 
 - My name is...
@@ -224,7 +238,6 @@ liù ，qī ，bā ，jiǔ ，shí
 - of, from
 - 在...的，从
 - zài ...de ，cóng
-
 
 - Do you speak English?
 - 你会讲英文吗？
@@ -250,9 +263,7 @@ liù ，qī ，bā ，jiǔ ，shí
 - wǒ zàijiā kànshū，shàngwǎng
 - 我在家看书，上网。
 
-### Grammar
-
-多部贵
-你准备好了？
-
+— 来了有多久？ 
+- Lái le yǒu duōjiǔ？
+- How long have you been here?
 
