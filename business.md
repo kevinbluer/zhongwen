@@ -2,4 +2,4 @@ Business
 
 - Basic Language
 - Doing Business in China
-- The Entreprenurial Landscape
+- The Entrepreneurial Landscape
