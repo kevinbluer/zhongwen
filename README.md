@@ -32,7 +32,6 @@ TODO - copy up from Chinese Grammer book
 - yǒu shí sometimes
 - 更多 gèng duō more
 - 较少的 jiào shǎo de less
-
 - bù dōu 不 都 | not all
 - dōu 都 | all
 - dōu bú 都 不 | all not 
