@@ -55,11 +55,11 @@ TODO - copy up from Chinese Grammer book
 
 ### Numbers
 
-一，二，三，四，五
-yī ，èr ，sān ，sì ，wǔ
+- 一，二，三，四，五
+- yī ，èr ，sān ，sì ，wǔ
 
-六，七，八，九，十
-liù ，qī ，bā ，jiǔ ，shí
+- 六，七，八，九，十
+- liù ，qī ，bā ，jiǔ ，shí
 
 - shí - 10
 - bǎi - 100
