@@ -2,6 +2,7 @@
 
 TODO - start listing out templates structures (e.g. from the Celebrity Mandarin slides)
 TODO - copy up from Chinese Grammer book
+TODO - switch this readme into a summary page (and begin grouping by section)
 
 ### Day to Day
 
