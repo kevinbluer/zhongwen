@@ -33,12 +33,13 @@ TODO - copy up from Chinese Grammer book
 - 更多 gèng duō more
 - 较少的 jiào shǎo de less
 - 还 hái still
-
 - bù dōu 不 都 | not all
 - dōu 都 | all
 - dōu bú 都 不 | all not 
 - zhī dào 知道 | know (as in I "know" how to speak English)
 - rén shì 认识 | know (as in I "know" him)
+- yǐqián 以前 previously
+- cóngqián 从前 in the past 
 
 ### Places
 
@@ -57,11 +58,11 @@ TODO - copy up from Chinese Grammer book
 
 ### Numbers
 
-一，二，三，四，五
-yī ，èr ，sān ，sì ，wǔ
+- 一，二，三，四，五
+- yī ，èr ，sān ，sì ，wǔ
 
-六，七，八，九，十
-liù ，qī ，bā ，jiǔ ，shí
+- 六，七，八，九，十
+- liù ，qī ，bā ，jiǔ ，shí
 
 - shí - 10
 - bǎi - 100
@@ -315,3 +316,15 @@ liù ，qī ，bā ，jiǔ ，shí
 - 我还在这里
 - wo hái zài zhè li
 - I am still here
+
+- Nǐ huì shuō zhōngwén ma?
+- 你会说中文吗?
+- Do you speak Chinese?
+
+- Huì, wǒ yǐqián xué guò hànyǔ.
+- 会，我 以前 学 过 汉语。 
+- Yes, I can. I've studied Chinese before.
+
+- Cóngqián, shān shàng yǒu yízuò chéngbǎo.
+- 从前，        山     上      有    一座    城堡。
+- Once upon a time, there was a castle on a mountain.
