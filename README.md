@@ -32,6 +32,7 @@ TODO - copy up from Chinese Grammer book
 - yǒu shí sometimes
 - 更多 gèng duō more
 - 较少的 jiào shǎo de less
+- 还 hái still
 
 - bù dōu 不 都 | not all
 - dōu 都 | all
@@ -81,11 +82,11 @@ liù ，qī ，bā ，jiǔ ，shí
 
 ### Nouns
 
-- shì qíng | things
-- dōng xī 东西 | stuff
-- zhào piàn | photo
-- miàn bāo | bread
-- fruit
+- shì qíng things
+- dōng xī 东西 stuff
+- zhào piàn photo
+- miàn bāo bread
+- fruit 水果 shuǐguǒ
 - 因特网 yīn tè wǎng Internet
 
 ### Verbs
@@ -105,15 +106,19 @@ liù ，qī ，bā ，jiǔ ，shí
 - 离开 lí kāi to leave
 - 吃 chī to eat
 - 问 wèn to ask (a question)
+- 等 děng to wait
+- 教 jiāo to teach
+- 用 yòng to use
+- 出去 chū·qù go out, get out
 
 ### Adjectives
 
 - aì love
 - hǎo | good or nice
-- piao liang | 
-- ɡuì | expensive
-- máfɑn 麻 烦 | trouble or effort
-- fānɡbiàn | convenient
+- piao liang | beautiful
+- guì | expensive
+- máfan 麻 烦 | trouble or effort
+- fāngbiàn | convenient
 - 小的 xiǎo de small
 
 ### Phrases
@@ -213,10 +218,22 @@ liù ，qī ，bā ，jiǔ ，shí
 - office
 - job
 
+### Grammar & Quirks
+
+- 最大 
+- zuìdà
+- the biggest
+
 ### Jobs
 
 - biān chéng 编程 | programming
 - shè yǐng shī 摄影师 | photographer
+
+### Business
+
+- Up to date
+- 最新
+- zuì xīn
 
 ### Government
 
@@ -259,6 +276,14 @@ liù ，qī ，bā ，jiǔ ，shí
 - wǒ yǒushíhou qù zhōngguó chūchāi
 - 我有时候去中国出差
 
+- 我们走吧。
+- wǒ men zǒu ba
+- Let's go.
+
+- 吃饭吧。
+- chī fàn ba
+- (You) should eat.
+
 - I read and surf the Internet at home.
 - wǒ zàijiā kànshū，shàngwǎng
 - 我在家看书，上网。
@@ -267,3 +292,26 @@ liù ，qī ，bā ，jiǔ ，shí
 - Lái le yǒu duōjiǔ？
 - How long have you been here?
 
+- 我喜欢吃饼干。我也喜欢吃蛋糕。
+- Wǒ xǐ huan chī bǐng gān. Wǒ yě xǐ huan chī dàn gāo.
+- I like to eat cookies. I also like to eat cake.
+
+- 我只有一辆车。
+- Wǒ zhǐ yǒu yī liàng chē.
+- I only have one car.
+
+- 她画得很好。
+- tā huà de hěn hǎo
+- She paints very well
+
+- 我最喜欢吃巧克力冰淇淋。 
+- Wǒ zuì xǐhuan chī qiǎokèlì bīngqilín.
+- I like chocolate ice cream best.
+
+- 我还住在加州。
+- Wǒ hái zhù zài jiā zhōu.
+- I still live in California.
+
+- 我还在这里
+- wo hái zài zhè li
+- I am still here
