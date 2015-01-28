@@ -1,8 +1,15 @@
-# 中文
+# 中文 1st Edition
 
 TODO - start listing out templates structures (e.g. from the Celebrity Mandarin slides)
 TODO - copy up from Chinese Grammer book
 TODO - switch this readme into a summary page (and begin grouping by section)
+TODO - Intersperse full page big quotes
+TODO - Include a few essential characters (and the principals behind the system)
+TODO - List of the Tools and Apps that greatly help (include this on the pros and cons of the marketing)
+
+### Greetings
+
+- 好久不见 hao jiǔ bù jiàn long time no see
 
 ### Day to Day
 
@@ -40,7 +47,9 @@ TODO - switch this readme into a summary page (and begin grouping by section)
 - zhī dào 知道 | know (as in I "know" how to speak English)
 - rén shì 认识 | know (as in I "know" him)
 - yǐqián 以前 previously
-- cóngqián 从前 in the past 
+- cóngqián 从前 in the past
+- 小心 xiǎoxīn be careful
+- 不久 bú jiǔ soon
 
 ### Places
 
@@ -81,6 +90,7 @@ TODO - switch this readme into a summary page (and begin grouping by section)
 - 几点了? jǐ diǎn le ? What time is it?
 - 不久 bú jiǔ soon
 - 晚 wǎn late
+- 早的 zǎo de
 
 ### Nouns
 
@@ -93,12 +103,13 @@ TODO - switch this readme into a summary page (and begin grouping by section)
 
 ### Verbs
 
+- 有 yǒu to have
 - zài | at, in
 - zài | to take (as in take a bus / boat / train / plane)
 - xiū xi | rest
-- huì 会 | can
+- huì 会 | can, be able to to
 - kě yǐ 可以 | can
-- zuò 做 | do
+- zuò 做 | to do
 - shuō 说 | speak or say
 - 告诉 gào sù to tell
 - 学习 xué xí study
@@ -112,6 +123,15 @@ TODO - switch this readme into a summary page (and begin grouping by section)
 - 教 jiāo to teach
 - 用 yòng to use
 - 出去 chū·qù go out, get out
+- 长 zhǎng to grow
+- 开始 kāi shǐ to start
+- 写 xiě to write
+- 加 jiā to add
+- 住 zhù to live (in a place)
+- 听 tīng to listen
+- 笑 xiào to laugh
+- 叫 jiào to call / cry out
+- 认识 rèn shi to recognize, to know (someone)
 
 ### Adjectives
 
@@ -153,8 +173,8 @@ TODO - switch this readme into a summary page (and begin grouping by section)
 
 ### Vehicles
 
-- Car 
-- Train
+- 汽车 qìchē car
+- 火车 huǒchē train 
 - Bicycle
 - Taxi
 - Bus
