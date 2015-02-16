@@ -34,3 +34,5 @@ Business
 
 - Government
 - 50cent
+
+- piāoqiè 剽窃 Plagiarism

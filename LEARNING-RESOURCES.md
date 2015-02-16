@@ -14,6 +14,9 @@
 - ChineseSkill
 - Pleco
 - Skritter http://www.skritter.com
+- HelloTalk
+- Chinagram
+- Memrise
 
 ### Reading Around
 
